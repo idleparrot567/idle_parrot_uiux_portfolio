@@ -70,6 +70,7 @@ img {
   
   /* Footer */
   .footer {
+	position: sticky;
 	padding: 20px;
 	text-align: center;
 	background: #ddd;
